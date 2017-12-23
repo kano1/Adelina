@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Title: white list
+
 @@||1rx.io
 @@||adform.net
 @@||adform.net
@@ -15,3 +18,6 @@
 @@||adserver.yahoo.com
 @@||ads.yahoo.com
 @@||adform.net
+@@||id.yahoo.com
+||scorecardresearch.com
+||crwdcntrl.net
