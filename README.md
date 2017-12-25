@@ -35,10 +35,14 @@ https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Speed%20Up
 https://easylist-downloads.adblockplus.org/exceptionrules.txt
 
 ---------------------------my crypto miner list---------------------------
-     crypto coalmine 
+
+                 crypto coalmine      
+                 
 https://raw.githubusercontent.com/kano1/Kano/master/coalMine.txt
 
 
 ---------this easylist adblock plus projeck for nocoin to improve your security------
+
                cryto miner by No coin
+               
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
