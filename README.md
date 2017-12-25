@@ -19,6 +19,10 @@ block ip for wanna cry ataack list
 
 https://raw.githubusercontent.com/kano1/Adeline/master/DontNotCry
 
+add privacy your shoping to block all hacker good and bad for gray,white,black hat list
+
+https://raw.githubusercontent.com/kano1/Adelina/master/ShopingGrayWhitheCoffeMix
+
 ---------------------------my adblock list---------------------------
                 block traker and increas speed
  
