@@ -1,10 +1,13 @@
-Help Security By adblock list my projeck
+              Help Security By adblock list my projeck
+the list I use will be more useful if you use it in adblock plus, garuda browser
+
+
 
 block Mallucious and ransmoneware
 
 https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Security
 
-block spyware atack
+block spyware atack / and accest on your system
 
 https://raw.githubusercontent.com/kano1/Adeline/master/Spyware%20X
 
