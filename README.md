@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/kano1/Adeline/master/Spyware%20X
 
 https://raw.githubusercontent.com/kano1/Adeline/master/GarudaSpamTeror
 
-               block ip for wanna cry ataack list           
+                     block ip for wanna cry ataack list           
  
 https://raw.githubusercontent.com/kano1/Adeline/master/DontNotCry
 
@@ -24,17 +24,18 @@ https://raw.githubusercontent.com/kano1/Adeline/master/DontNotCry
 
 https://raw.githubusercontent.com/kano1/Adelina/master/ShopingGrayWhitheCoffeMix
 
----------------------------my adblock list---------------------------
+----------------------------------my adblock list-----------------------------------
                 block traker and increas speed
  
 https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Speed%20Up
 
 ---------this easylist adblock plus projeck for accept adds to improve your security-------
------------because if you block ads them they may add hate you----------
+
+--------------------because if you block ads them they may add hate you---------------------
 
 https://easylist-downloads.adblockplus.org/exceptionrules.txt
 
----------------------------my crypto miner list---------------------------
+--------------------------------my crypto miner list-----------------------------------------------
 
                  crypto coalmine      
                  
