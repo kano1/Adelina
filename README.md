@@ -29,7 +29,8 @@ https://raw.githubusercontent.com/kano1/Adelina/master/ShopingGrayWhitheCoffeMix
  
 https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Speed%20Up
 
----------this easylist adblock plus projeck for accept adds to improve your security-------
+---------this easylist adblock plus projeck for accept adds to improve your security-------          
+
 
 --------------------because if you block ads them they may add hate you---------------------
 
