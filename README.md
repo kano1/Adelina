@@ -24,8 +24,9 @@ https://raw.githubusercontent.com/kano1/Adeline/master/DontNotCry
 
 https://raw.githubusercontent.com/kano1/Adelina/master/ShopingGrayWhitheCoffeMix
 
-----------------------------------my adblock list-----------------------------------
-                block traker and increas speed
+----------------------------------my adblock list-----------------------------------         
+               
+                          block traker and increas speed
  
 https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Speed%20Up
 
