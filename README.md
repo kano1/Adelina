@@ -1,5 +1,5 @@
                       welcome to my projeckt
-         --------Help Security By adblock list my projeck-------
+         --------Help Security and privacy By adblock list-------
 the list I use will be more useful if you use it in adblock plus, garuda browser
 
 
