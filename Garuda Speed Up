@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Garuda Speed Up
 
-  ---- Global Block Block Scrip ----
 
 white list google or yahoo adsense becaus good domain sponsore Adsense
 
@@ -54,7 +53,7 @@ white list google or yahoo adsense becaus good domain sponsore Adsense
 @@||yimg.com^$document
 
 
-    Global Scrip Block
+   ---- Global Block Scrip ----
 
 -prebid.$script
 .buzz/?*=$script,~third-party,domain=todayshealth.buzz
