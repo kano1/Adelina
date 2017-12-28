@@ -5,21 +5,28 @@
 -----white list google or yahoo adsense becaus good domain sponsore Adsense---
 
 @@||2mdn.net^$document
+@@||adform.com^$document
 @@||adform.net^$document
 @@||adnxs.com^$document
 @@||ads.yahoo.com^$document
+@@||adsafemedia.com^$document
+@@||adsafeprotected.com^$document
 @@||adsrvr.org^$document
 @@||adsymptotic.com^$document
+@@||adtech.de^$document
 @@||basebanner.com^$document
 @@||bc.yahoo.com^$document
 @@||beap-bc.yahoo.com^$document
 @@||bidswitch.net^$document
+@@||brightroll.com^$document
 @@||casalemedia.com^$document
 @@||contextweb.com^$document
+@@||criteo.com^$document
 @@||ctnsnet.com^$document
 @@||doubleclick.net^$document
 @@||dserver.yahoo.com^$document
 @@||everesttech.net^$document
+@@||evidon.com^$document
 @@||fonts.googleapis.com^$document
 @@||gemini.yahoo.com^$document
 @@||geo.yahoo.com^$document
@@ -37,21 +44,30 @@
 @@||mathtag.com^$document
 @@||mookie1.com^$document
 @@||pubmatic.com^$document
+@@||rocketfuel.com^$document
 @@||rubiconproject.com^$document
 @@||rundsp.com^$document
 @@||s3xified.com^$document
 @@||serving-sys.com^$document
+@@||site.adform.com^$document
 @@||tapad.com^$document
 @@||tribalfusion.com^$document
 @@||trustarc.com^$document
 @@||truste.com^$document
 @@||udc.yahoo.com^$document
-@@||yql.yahoo.com^$document
 @@||video.yahoo.com^$document
+@@||www.aol.com^$document
+@@||www.appnexus.com^$document
+@@||www.brightroll.com^$document
+@@||www.casalemedia.com^$document
+@@||www.dataxu.com^$document
+@@||www.doubleverify.com^$document
+@@||www.evidon.com^$document
 @@||www.google.com^$document
+@@||www.sizmek.com^$document
 @@||ybp.yahoo.com^$document
 @@||yimg.com^$document
-
+@@||yql.yahoo.com^$document
 
    ---- Global Block Scrip ----
 
@@ -6020,13 +6036,6 @@ Tracker block
 ||crispmedia.com^
 ||crispwireless.com
 ||crispwireless.com^
-||criteo.com
-||criteo.com/event?$third-party
-||criteo.com^
-||criteo.com^$domain=comunio.de
-||criteo.com^$domain=fanfiktion.de
-||criteo.com^$third-party
-||criteo.net^$third-party
 ||critictruck.com^$third-party
 ||crittercism.com^
 ||crm-vwg.com/tracker/
