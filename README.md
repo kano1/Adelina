@@ -41,4 +41,4 @@ https://easylist-downloads.adblockplus.org/exceptionrules.txt
 
                                crypto coalmine             
                  
-https://raw.githubusercontent.com/kano1/Kano/master/coalMine.txt
+https://raw.githubusercontent.com/kano1/Kano/master/CoalMine.txt
