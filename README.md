@@ -2,7 +2,9 @@
          --------Help Security and privacy By adblock list-------
 the list I use will be more useful if you use it in adblock plus and garuda browser
 
+                       block badware          
 
+https://raw.githubusercontent.com/kano1/Kano/master/BadPupetAlice.txt
 
                   block Mallucious and ransmoneware     
 
@@ -42,10 +44,3 @@ https://easylist-downloads.adblockplus.org/exceptionrules.txt
                  crypto coalmine      
                  
 https://raw.githubusercontent.com/kano1/Kano/master/coalMine.txt
-
-
----------this easylist adblock plus projeck for nocoin to improve your security------
-
-               cryto miner by No coin
-               
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
