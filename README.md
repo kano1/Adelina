@@ -6,6 +6,9 @@ the list I use will be more useful if you use it in adblock plus and garuda brow
 
 https://raw.githubusercontent.com/kano1/Kano/master/BadPupetAlice.txt
 
+                        Popup Bloker                
+https://raw.githubusercontent.com/kano1/Kano/master/popblock.txt
+
                   block Mallucious and ransmoneware     
 
 https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Security
