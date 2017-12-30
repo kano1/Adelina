@@ -39,8 +39,6 @@ https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Speed%20Up
 
 https://easylist-downloads.adblockplus.org/exceptionrules.txt
 
---------------------------------my crypto miner list-----------------------------------------------
-
-                 crypto coalmine      
+                               crypto coalmine             
                  
 https://raw.githubusercontent.com/kano1/Kano/master/coalMine.txt
