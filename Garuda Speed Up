@@ -13,6 +13,7 @@
 @@||adsrvr.org^$document
 @@||adsymptotic.com^$document
 @@||adtech.de^$document
+@@||aspnetcdn.com
 @@||basebanner.com^$document
 @@||bc.yahoo.com^$document
 @@||bdldoyxsnujz5d.dv.googlehosted.com^$document
@@ -21,6 +22,7 @@
 @@||bq5mnkfucrqujs.dv.googlehosted.com^$document
 @@||brightroll.com^$document
 @@||casalemedia.com^$document
+@@||cdn1-a.production.images.static6.com
 @@||contextweb.com^$document
 @@||criteo.com^$document
 @@||ctnsnet.com^$document
@@ -175,7 +177,6 @@
 /cdn-cgi/pe/bag2?r*adblade.com
 /cdn-cgi/pe/bag2?r*adk2.co
 /cdn-cgi/pe/bag2?r*ads.exoclick.com
-/cdn-cgi/pe/bag2?r*adsnative.com
 /cdn-cgi/pe/bag2?r*advertserve.com
 /cdn-cgi/pe/bag2?r*az708531.vo.msecnd.net
 /cdn-cgi/pe/bag2?r*clkrev.com
@@ -185,7 +186,6 @@
 /cdn-cgi/pe/bag2?r*eclkmpbn.com
 /cdn-cgi/pe/bag2?r*eclkspsa.com
 /cdn-cgi/pe/bag2?r*ero-advertising.com
-/cdn-cgi/pe/bag2?r*googleadservices.com
 /cgnmhg
 /clickpop.js$domain=miliblog.co.uk
 /cn450b
