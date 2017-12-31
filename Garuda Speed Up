@@ -7,6 +7,7 @@
 @@||adform.com^$document
 @@||adform.net^$document
 @@||adnxs.com^$document
+@@||ads.yahoo.com
 @@||ads.yahoo.com^$document
 @@||adsafemedia.com^$document
 @@||adsafeprotected.com^$document
@@ -15,12 +16,16 @@
 @@||adtech.de^$document
 @@||aspnetcdn.com
 @@||basebanner.com^$document
+@@||bc.yahoo.com
 @@||bc.yahoo.com^$document
 @@||bdldoyxsnujz5d.dv.googlehosted.com^$document
+@@||beap-bc.yahoo.com
 @@||beap-bc.yahoo.com^$document
 @@||bidswitch.net^$document
 @@||bq5mnkfucrqujs.dv.googlehosted.com^$document
 @@||brightroll.com^$document
+@@||cm.g.doubleclick.net
+@@||cm.g.doubleclick.net^$document
 @@||casalemedia.com^$document
 @@||cdn1-a.production.images.static6.com
 @@||contextweb.com^$document
@@ -59,6 +64,7 @@
 @@||trustarc.com^$document
 @@||truste.com^$document
 @@||udc.yahoo.com^$document
+@@||vid.springserve.com
 @@||video.yahoo.com^$document
 @@||www.aol.com^$document
 @@||www.appnexus.com^$document
