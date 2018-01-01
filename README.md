@@ -1,9 +1,13 @@
                       welcome to my projeckt
          --------Help Security and privacy By adblock list-------
 the list I use will be more useful if you use it in adblock plus and garuda browser
+            
+                        
+                        Adaware Block
+                        
+https://github.com/kano1/I/blob/master/badway.txt
 
-                       block badware          
-
+                        Badware Block
 https://raw.githubusercontent.com/kano1/Kano/master/BadPupetAlice.txt
 
                   block Mallucious and ransmoneware     
