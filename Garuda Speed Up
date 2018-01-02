@@ -78,7 +78,9 @@ whitelist domain sponsore Adsense becous this is good domain sponsore Adsense
 @@||www.sizmek.com^$document
 @@||ybp.yahoo.com^$document
 @@||yimg.com^$document
+@@||www.youtube.com^$document
 @@||yql.yahoo.com^$document
+
 
    ---- Global Block Scrip ----
  
