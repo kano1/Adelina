@@ -3,7 +3,7 @@
 
 whitelist domain sponsore Adsense becous this is good domain sponsore Adsense 
 
-@@||moatads.com
+@@||moatads.com^$document
 @@||taboola.com^$document
 @@||2mdn.net^$document
 @@||adform.com^$document
@@ -19721,12 +19721,6 @@ _nb_sys.$script,~third-party
 ||t70123.com^$third-party
 ||tab.co.nz/track?
 ||tablet.gutterhelment.net^$third-party
-||taboola.com/tb?
-||taboola.com^$third-party
-||taboola.com^*/log/
-||taboola.com^*/notify-impression?$third-party
-||taboolasyndication.com/log/
-||taboolasyndication.com^*/log/
 ||tacoda.net^$third-party
 ||tag-abe.cartrawler.com^
 ||tag-stats.huffpost.com^
@@ -20630,14 +20624,6 @@ _nb_sys.$script,~third-party
 ||truehits1.gits.net.th^$third-party
 ||truehits2.gits.net.th^$third-party
 ||truehits3.gits.net.th^$third-party
-||trumba.com/et.aspx?$third-party
-||trumpia.com^$third-party
-||truoptik.com^$third-party
-||truste.com/common/js/ga.js
-||truste.com/notice?*consent-track
-||trustlogo.com^$third-party
-||trustpilot.com/stats/
-||trustsquare.net/trafficmonitor/
 ||truthfulhead.com^
 ||truthfulturn.com^$third-party
 ||try.abtasty.com^$third-party
@@ -20694,27 +20680,6 @@ _nb_sys.$script,~third-party
 ||tvshark.com/stats.js
 ||tw.i.hulu.com^
 ||twcount.com^$third-party
-||tweako.com/imp.php
-||twimbow.com/serverreq/twbtracker.php$xmlhttprequest
-||twimg.com/jot?
-||twitch.tv/track/
-||twittad.com^$third-party
-||twitter.com/abacus?
-||twitter.com/i/csp_report?
-||twitter.com/i/jot
-||twitter.com/i/jot$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|rollingstone.de|sat1.de|sixx.de
-||twitter.com/jot.html
-||twitter.com/oct.js
-||twitter.com/scribe/
-||twitter.com/scribe?
-||twitter.com/scribes/
-||twitter.com^*/anonymize?data
-||twitter.com^*/log.json?
-||twitter.com^*/prompts/impress
-||twitter.com^*/scribe^
-||twitvid.com/api/tracking.php$object-subrequest
-||twitvid.com/mediaplayer/players/tracker.swf
-||twitvid.com^*/tracker.swf$third-party
 ||twopointo.io^$third-party
 ||txmblr.com^*/pixel^
 ||txn.grabnetworks.com^
