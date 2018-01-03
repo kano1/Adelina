@@ -3,14 +3,11 @@
 the list I use will be more useful if you use it in adblock plus and garuda browser
             
                         
-                        Adaware Block
+                      Adaware Block
                         
 https://raw.githubusercontent.com/kano1/I/master/badway.txt
 
-                        Badware Block
-https://raw.githubusercontent.com/kano1/Kano/master/BadPupetAlice.txt
-
-                  block Mallucious and ransmoneware     
+                block Mallucious and ransmoneware     
 
 https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Security
 
@@ -42,7 +39,4 @@ https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Speed%20Up
 --------------------because if you block ads them they may add hate you---------------------
 
 https://easylist-downloads.adblockplus.org/exceptionrules.txt
-
-                               crypto coalmine             
-                 
-https://raw.githubusercontent.com/kano1/Kano/master/CoalMine.txt
+                
