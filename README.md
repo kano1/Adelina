@@ -2,10 +2,9 @@
          --------Help Security and privacy By adblock list-------
 the list I use will be more useful if you use it in adblock plus and garuda browser
             
+            adware block
                         
-                      Adaware Block
-                        
-https://raw.githubusercontent.com/kano1/I/master/badway.txt
+    https://easylist-downloads.adblockplus.org/adwarefilters.txt
 
                 block Mallucious and ransmoneware     
 
