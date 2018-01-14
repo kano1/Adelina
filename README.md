@@ -11,3 +11,7 @@ https://raw.githubusercontent.com/kano1/Kano/master/Spyware.txt
 
                   Wanna Cry
 https://raw.githubusercontent.com/kano1/Kano/master/CybervCry.txt
+       
+                shoping privacy
+
+https://github.com/kano1/Adelina/blob/master/ShopingGrayWhitheCoffeMix
