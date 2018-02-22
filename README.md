@@ -1,40 +1,32 @@
-                      welcome to my projeckt
+
+                                welcome to my projeckt
          --------Help Security and privacy By adblock list-------
 the list I use will be more useful if you use it in adblock plus and garuda browser
             
                         
                       Adaware Block
                         
-https://raw.githubusercontent.com/kano1/I/master/badway.txt
+https://raw.githubusercontent.com/kano1/adblock/master/adware.txt
 
-                block Mallucious and ransmoneware     
+                block Mallucious
+                
+https://raw.githubusercontent.com/kano1/adblock/master/Malware.txt
 
-https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Security
+block spyware atack / and accest on your system
+(warning dont using in sofware system or sofware for window this will block most software access)
 
-           block spyware atack / and accest on your system    
+https://raw.githubusercontent.com/kano1/adblock/master/spyware.txt
 
-https://raw.githubusercontent.com/kano1/Adeline/master/Spyware%20X
+           ip ddos  block ip for wanna cry ataack list           
 
-                    block spam and phising      
-
-https://raw.githubusercontent.com/kano1/Adeline/master/GarudaSpamTeror
-
-                     block ip for wanna cry ataack list           
+https://raw.githubusercontent.com/kano1/adblock/master/DDOSER.txt
  
-https://raw.githubusercontent.com/kano1/Adeline/master/DontNotCry
+ransomware , torjan , phising
 
-   add privacy your shoping to block all hacker good and bad for gray,white,black hat list
+https://raw.githubusercontent.com/kano1/adblock/master/thor.txt
 
-https://raw.githubusercontent.com/kano1/Adelina/master/ShopingGrayWhitheCoffeMix
-
-----------------------------------my adblock list-----------------------------------         
-               
-                          block traker and increas speed
  
-https://raw.githubusercontent.com/kano1/Adelina/master/Garuda%20Speed%20Up
-
 ---------this easylist adblock plus projeck for accept adds to improve your security-------          
-
 
 --------------------because if you block ads them they may add hate you---------------------
 
