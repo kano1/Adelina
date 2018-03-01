@@ -1,31 +1,33 @@
 [Adblock Plus 2.0]
 ! Title: Garuda Speed Up
- 
-||allegrostatic.pl/js/scripts/cookie-policy-banner$script
-||app.cookieassistant.com/widget$script
-||assets.cookieconsent.silktide.com^
-||assets.futurecdn.net/js/fp_cookie.js$script
-||assets.futurecdn.net/js/fp_cookie.min.js$script
-||consent.truste.com
-||cookie-script.com/s$script
-||cookie.gazeta.pl/noScriptCookie.servlet
-||cookieconsent.com^$third-party
-||cookieok.eu/bar/js/cookieok.js$script
-||crownpaint.co.uk/scripts/crown/cookiesPopup.js$script
-||delo.si/assets/delo_v3/notice/js/script.js$script
-||demotywatory.pl/res/assets/user-revision12b9ff43cfde9f9f05947f9bbce45787.js$script
-||du8783wkf05yr.cloudfront.net/rbi_uk.js$script
-||fabriclondon.com/include/javascript/cookiedirective1.5.js$script
-||frz.io/cnil/
-||harrys.co.uk/js/toucanCookie.js
-||login.gg.pl/cookies-policy/*/cookie-terms*
-||m1mjd9in5z2.cloudfront.net/widget.js
-||mnhn.fr/fr/cookie-eu/
-||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
-||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
-||popin.survey-xact.dk/cookies.js$script
-||wkd.com.pl/cookies/cookies.js$script
 
+.silktide
+.truste
+/assets
+/cnil/
+/cookies-policy/*/cookie-terms*
+/cookies.js
+/cookies/cookies.js
+/delo_v3
+/fr/fr/cookie-eu/
+/include/javascript/cookiedirective1.5.js
+/js/fp_cookie.js$script
+/js/fp_cookie.min.js$script
+/js/script.js
+/js/scripts/cookie-policy-banner$script
+/js/toucanCookie.js
+/noScriptCookie.servlet
+/notice
+/rbi_uk.js
+/res
+/s$script
+/scripts/crown/cookiesPopup.js$script
+/shared_files/clientscripts/cms/cookie_alert1.js
+/user-revision12b9ff43cfde9f9f05947f9bbce45787.js
+/widget$script
+/widget.js
+/wp-content/plugins/omg-magnific/magnific.min.js$script
+bar/js/cookieok.js$script
 
 ------   Pop Up   ------
 
