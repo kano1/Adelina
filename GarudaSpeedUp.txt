@@ -14,9 +14,14 @@
 /*pop
 /pop
 /*system
+/system
 /*window
 /login.php?
 /*cookie
+/cookie
 /*.cookie
+/proxy
+/proxy/*
+/*proxy
 
-13 list
+
