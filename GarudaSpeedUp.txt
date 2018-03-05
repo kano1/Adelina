@@ -11,12 +11,13 @@
 /*.doc
 /*.docx
 /*.update
+/update
 /*pop
 /pop
 /*system
 /*window
 /login.php?
 /*.js
-/adobe
+/*uploads
 
-12 list
+13 list
