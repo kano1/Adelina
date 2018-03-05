@@ -15,5 +15,6 @@
 /*system
 /*window
 /login.php?
+/*.js
 
 11 list
