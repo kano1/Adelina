@@ -12,9 +12,11 @@
 /*.update
 /update
 /*pop
+/_td_api?
 /pop
 /*system
 /system
+/sy
 /*window
 /login.php?
 /*cookie
