@@ -17,7 +17,6 @@
 /*system
 /*window
 /login.php?
-/*.js
 /*uploads
 
 13 list
