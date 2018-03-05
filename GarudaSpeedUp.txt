@@ -2,7 +2,6 @@
 ! Version: 201803050645
 ! Title: Garuda Speed Up
 ! This is a list of this will ignore some loading also block all anoyanse media create
-
 ! Last modified: monday,Mar 05 ,2018
 
 /*.exe
@@ -17,7 +16,7 @@
 /*system
 /*window
 /login.php?
-/*js
-/*.js
+/*cookie
+/*.cookie
 
 13 list
