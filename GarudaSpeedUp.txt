@@ -1,7 +1,8 @@
 [Adblock Plus 2.0]
 ! Version: 201803050645
 ! Title: Garuda Speed Up
-! This is a list of this will ignore some loading
+! This is a list of this will ignore some loading also block all anoyanse media create
+
 ! Last modified: monday,Mar 05 ,2018
 
 /*.exe
@@ -16,5 +17,6 @@
 /*window
 /login.php?
 /*.js
+/adobe
 
 12 list
