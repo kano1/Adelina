@@ -16,7 +16,6 @@
 /pop
 /*system
 /system
-/sy.gif
 /*window
 /login.php?
 /*cookie
