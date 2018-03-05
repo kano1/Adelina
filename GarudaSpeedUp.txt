@@ -16,12 +16,15 @@
 /pop
 /*system
 /system
-/sy
+/sy.gif
 /*window
 /login.php?
 /*cookie
 /cookie
 /*.cookie
+/cookie-
+/coolest
+/cookie.
 /proxy
 /proxy/*
 /*proxy
