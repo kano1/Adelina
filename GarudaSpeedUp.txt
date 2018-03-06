@@ -18,6 +18,7 @@
 /system
 /*window
 /login.php?
+/id.html
 /*cookie
 /cookie
 /*.cookie
