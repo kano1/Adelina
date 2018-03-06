@@ -31,4 +31,6 @@
 /pogijhnlcf
 /api
 /stats
-/watchtime
+/page_view?
+/undefined
+/log
