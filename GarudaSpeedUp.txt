@@ -29,3 +29,6 @@
 /*proxy
 /collector.*
 /pogijhnlcf
+/api
+/stats
+/watchtime
