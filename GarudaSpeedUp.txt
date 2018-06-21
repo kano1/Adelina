@@ -30,12 +30,10 @@
 /*gwang-go
 /*hirdet
 /*hirdetes
-/*hk
 /*holla
 /*ielan
 /*iklaini
 /*iklan
-/*ir
 /*iragarki
 /*jarnama
 /*kanokhsana
