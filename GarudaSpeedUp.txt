@@ -148,7 +148,6 @@
 /swdm/gsd.html
 /trustedsaver.js
 /uaest.js
-/wp-content/uploads
 /ws/sf_main.js
 ||*.ac^
 ||*.ad^
