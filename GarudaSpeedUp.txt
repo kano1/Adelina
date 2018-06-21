@@ -128,7 +128,6 @@
 /lux.js
 /partner/
 /plugin/otros.js
-/plugin/script.js
 /plugins/page.php?
 /pop
 /pop/
