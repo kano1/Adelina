@@ -6,6 +6,7 @@ adsrotator4all.com	104.27.141.22
 adsrotator4all.net	104.31.87.113
 adsrotator4all.org	192.64.119.230
 adsrotatorzone.com	104.27.143.204
+akamaihd.net 118.98.93.24
 akamaihd.net 118.98.104.48
 akamaihd.net 106.11.172.25
 akamaihd.cn	103.224.82.10
